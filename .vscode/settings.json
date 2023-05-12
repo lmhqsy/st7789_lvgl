@@ -1,0 +1,29 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.port": "/dev/ttyACM0",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "files.associations": {
+    "task.h": "c",
+    "user_dev_spi.h": "c",
+    "freertos.h": "c",
+    "lcd.h": "c",
+    "string.h": "c",
+    "*.inc": "c",
+    "lv_port_disp.h": "c",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "stdlib.h": "c",
+    "lv_demo_music_main.h": "c",
+    "lv_demo_music.h": "c",
+    "lv_demos.h": "c",
+    "lvgl.h": "c",
+    "lv_demo_keypad_encoder.h": "c",
+    "lv_port_indev.h": "c",
+    "random": "c"
+  },
+  "idf.flashType": "UART"
+}

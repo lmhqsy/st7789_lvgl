@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/lmh/lmh/lvgl_yizhi/st7789/build/CMakeFiles/bootloader
+/home/lmh/lmh/lvgl_yizhi/st7789/build/CMakeFiles/bootloader.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/CMakeFiles/bootloader-complete.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/lmh/lmh/lvgl_yizhi/st7789/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
