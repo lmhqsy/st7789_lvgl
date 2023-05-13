@@ -2,7 +2,7 @@
  * @Author: lmh 885288596@qq.com
  * @Date: 2023-04-28 21:50:05
  * @LastEditors: lmh 885288596@qq.com
- * @LastEditTime: 2023-05-12 23:32:45
+ * @LastEditTime: 2023-05-13 19:56:19
  * @FilePath: /st7789/main/main.c
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -146,10 +146,10 @@ void app_main(void)
    // lv_obj_t *lab = lv_label_create(d_obj);
    // lv_label_set_text(lab,"hello_lvgl");
    // lv_obj_center(lab);
-    //lv_demo_music();
+    lv_demo_music();
    // lv_demo_stress();
    //  lv_demo_widgets();
-      lv_demo_keypad_encoder();
+    //  lv_demo_keypad_encoder();
    // xTaskCreatePinnedToCore(imgtask, "imgtask", 4096*2, NULL, 0, NULL, 1);
    //xTaskCreatePinnedToCore(learntask, "learntask", 4096 * 2, NULL, 0, NULL, 1);
    while (true)

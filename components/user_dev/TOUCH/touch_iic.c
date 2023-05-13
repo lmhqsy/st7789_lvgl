@@ -2,7 +2,7 @@
  * @Author: lmh 885288596@qq.com
  * @Date: 2023-05-10 18:12:33
  * @LastEditors: lmh 885288596@qq.com
- * @LastEditTime: 2023-05-12 23:41:20
+ * @LastEditTime: 2023-05-13 19:54:36
  * @FilePath: /st7789/components/user_dev/TOUCH/touch_iic.c
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
